@@ -1,0 +1,17 @@
+{
+  "name": "proxy-client",
+  "version": "0.1.0",
+  "description": "A simple base class for API clients, proxyable through Node.",
+  "main": "lib/proxy-client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Schoonmaker <michael.r.schoonmaker@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "~4.9.7",
+    "mi": "~1.0.0",
+    "superagent": "~0.20.0",
+    "superagent-then": "~1.1.0"
+  }
+}
