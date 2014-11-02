@@ -1,6 +1,6 @@
 {
   "name": "proxy-client",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A simple base class for API clients, proxyable through Node.",
   "main": "lib/proxy-client.js",
   "scripts": {
